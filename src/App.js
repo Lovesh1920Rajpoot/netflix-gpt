@@ -1,11 +1,10 @@
-
+import React from "react";
+import Inputs from "./components/Inputs";
 
 function App() {
   return (
     <div className="App">
-      <h1>
-        Hello netflix
-      </h1>
+        <Inputs/>
     </div>
   );
 }
