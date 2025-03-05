@@ -1,10 +1,11 @@
 import React from "react";
-import Inputs from "./components/Inputs";
+import Body from "./components/Body";
+
 
 function App() {
   return (
-    <div className="App">
-        <Inputs/>
+    <div >
+       <Body/>
     </div>
   );
 }
