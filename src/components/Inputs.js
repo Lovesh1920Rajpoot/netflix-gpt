@@ -74,7 +74,7 @@ const Inputs = () => {
                 <Field name="social.twitter" type = "text" />
                 <br></br>
 
-                <button type = "submit">Submit</button>
+                <button type = "submit" >Submit</button>
                
             </Form>
         </Formik>
